@@ -48,8 +48,8 @@ The **Minimax algorithm** is a recursive method used in decision-making and game
 
 ## 📸 Preview
 
-> ![Game Preview](<img width="1436" alt="Screenshot 2025-04-30 at 5 12 12 PM" src="https://github.com/user-attachments/assets/5be7e10d-6a2f-4fbd-bcf9-7e5ad2e2b172" />
-)
+> ![Game Preview]
+<img width="1436" alt="Screenshot 2025-04-30 at 5 12 12 PM" src="https://github.com/user-attachments/assets/423ed4e4-9868-4ab8-a80c-e2f5942711b6" />
 
 ---
 
