@@ -30,7 +30,7 @@ A simple and fun **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 
 ---
 ## 🌐 Live Demo
-🔗 [Visit Tic-Tac-Toe](https://afreenkn.github.io/Tik-Tac-Toe/)
+🔗 [Visit Tic-Tac-Toe](https://afreenkn.github.io/Tic-Tac-Toe/)
 
 ---
 
