@@ -29,14 +29,8 @@ A simple and fun **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone or download this repository.
-2. Open `index.html` in any web browser.
-3. Start playing!
-
-No installation or server required.
+## 🌐 Live Demo
+🔗 [Visit Portfolio]("https://afreenkn.github.io/Tik-Tac-Toe/")
 
 ---
 
